@@ -3,7 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1", "1\1.pyproj", "{7476F825-9AB7-44B0-9A2A-0C33C1180933}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "9", "9\9.pyproj", "{E75E9DF0-EBC3-4081-9AEF-BA2DB94044D2}"
@@ -45,16 +44,16 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "154", "154\154.pyproj", "{1CF4FC86-AFDD-4964-BC17-F1BD0A276952}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "162", "162\162.pyproj", "{DC2ED22E-BD98-488A-95B7-B6E98041EE3A}"
-
+EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai008", "Bai008\Bai008.pyproj", "{4D161E9F-FA17-472B-B33E-75406465DC73}"
 EndProject
-
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai016", "Bai016\Bai016.pyproj", "{5469E4F8-5978-4A29-8309-723F2F84BA4F}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai024", "Bai024\Bai024.pyproj", "{975FEF77-1102-4EEB-902E-3E98045E8CD6}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai032", "Bai032\Bai032.pyproj", "{DE843064-2616-426A-B4DB-8F54E26A7F40}"
-
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai040", "Bai040\Bai040.pyproj", "{FCA74315-C887-4E0A-88FC-F2335B623709}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,7 +61,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
 		{7476F825-9AB7-44B0-9A2A-0C33C1180933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7476F825-9AB7-44B0-9A2A-0C33C1180933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E75E9DF0-EBC3-4081-9AEF-BA2DB94044D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -105,18 +103,16 @@ Global
 		{1CF4FC86-AFDD-4964-BC17-F1BD0A276952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC2ED22E-BD98-488A-95B7-B6E98041EE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DC2ED22E-BD98-488A-95B7-B6E98041EE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-
 		{4D161E9F-FA17-472B-B33E-75406465DC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4D161E9F-FA17-472B-B33E-75406465DC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
-
 		{5469E4F8-5978-4A29-8309-723F2F84BA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5469E4F8-5978-4A29-8309-723F2F84BA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{975FEF77-1102-4EEB-902E-3E98045E8CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{975FEF77-1102-4EEB-902E-3E98045E8CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE843064-2616-426A-B4DB-8F54E26A7F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DE843064-2616-426A-B4DB-8F54E26A7F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
-
-
+		{FCA74315-C887-4E0A-88FC-F2335B623709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA74315-C887-4E0A-88FC-F2335B623709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
